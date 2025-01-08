@@ -134,9 +134,3 @@ Contributions to improve the notebook or extend its functionality are welcome. F
 
 ---
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-Replace placeholders like `<repository-url>`, `<repository-directory>`, and dataset descriptions with specific details from your project. Let me know if you need further customization!
